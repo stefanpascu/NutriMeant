@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LET'S START" />
+
+    <!--
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="false"
+            android:background="@drawable/goalactivity"
+            android:contentDescription="@string/desc"
+            android:cropToPadding="false"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="192dp"
+            android:layout_height="200dp"
+            android:layout_above="@+id/imageButton3"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/gain"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="192dp"
+            android:layout_height="200dp"
+            android:layout_alignTop="@+id/imageButton"
+            android:layout_toEndOf="@+id/imageButton"
+            android:background="@drawable/lose"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="192dp"
+            android:layout_height="200dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/increase"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="192dp"
+            android:layout_height="200dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/maintain2"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitCenter" />
+            -->
+</RelativeLayout>

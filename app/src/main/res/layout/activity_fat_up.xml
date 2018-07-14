@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FatUp">
+
+    <!--
+    <ImageView
+        android:id="@+id/fundaldata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/dataactivity" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="146dp"
+        android:layout_height="53dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="25dp"
+        android:layout_marginEnd="29dp"
+        android:background="@drawable/buton"
+        android:scaleType="fitCenter" />
+
+    <EditText
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="50dp"
+        android:layout_marginTop="236.2dp"
+        android:ems="10"
+        android:hint="Example: 25 (y/o)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="132dp"
+        android:layout_marginEnd="41dp"
+        android:ems="9"
+        android:hint="Example: 75 (kg)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/height"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/weight"
+        android:layout_marginBottom="209dp"
+        android:ems="9"
+        android:hint="Example: 182 (cm)"
+        android:inputType="number"
+        android:singleLine="false" />
+
+    <TextView
+        android:id="@+id/FillAllFields"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="86dp"
+        android:text="TextView"
+        android:visibility="invisible" />
+-->
+</RelativeLayout>
