@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".FatUp">
 
-    <!--
     <ImageView
         android:id="@+id/fundaldata"
         android:layout_width="wrap_content"
@@ -70,5 +69,5 @@
         android:layout_marginBottom="86dp"
         android:text="TextView"
         android:visibility="invisible" />
--->
+
 </RelativeLayout>
